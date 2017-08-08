@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "postinstall": "cd client && yarn install"
+  },
+
   "name": "rails_game_ratings",
   "private": true,
   "dependencies": {}
